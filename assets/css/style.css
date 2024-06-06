@@ -1,0 +1,24 @@
+.container{
+    padding: 40px;
+    position: relative;
+    margin: 0 auto; 
+    width: 700px;
+    height: 250px; 
+}
+.style_title{
+    text-align: center;
+    font-size: 40px;
+    font-style: italic;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-shadow: 2px 5px 5px;
+}
+.list_style{
+    width: 200px;
+    height: 40px;
+    margin-left: 250px;
+    border-radius: 15px 15px 0 0;
+    border: 2px solid black;
+    margin-right: 20px;
+    font-size: 22px;
+    box-shadow: 3px 3px 5px 0px;
+}
